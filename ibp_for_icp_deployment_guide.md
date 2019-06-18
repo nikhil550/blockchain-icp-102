@@ -22,10 +22,8 @@ subcollection: blockchain
 # Getting started with {{site.data.keyword.blockchainfull_notm}} Platform for {{site.data.keyword.cloud_notm}} Private
 {: #get-started-icp}
 
-<!--
 This documentation describes the {{site.data.keyword.blockchainfull}} Platform for {{site.data.keyword.cloud_notm}} Private version 1.02.  The newest offering for {{site.data.keyword.cloud_notm}} Private is {{site.data.keyword.blockchainfull}} Platform for Multi-Cloud and is now generally available. {{site.data.keyword.blockchainfull}} Platform for Multi-Cloud is based on Hyperledger Fabric v1.4, offers a console UI, and supports {{site.data.keyword.cloud_notm}} Private v3.2.0. Users who are new to this offering should use {{site.data.keyword.blockchainfull}} Platform for Multi-Cloud to build their blockchain networks. For more information, see [About {{site.data.keyword.blockchainfull_notm}} Platform for Multi-Cloud](/docs/services/blockchain?topic=blockchain-console-icp-about).
 {: important}
--->
 
 {{site.data.keyword.blockchainfull}} Platform for {{site.data.keyword.cloud_notm}} Private allows users to deploy Certificate Authorities (CAs), orderers, and peers on x86, LinuxONE, and {{site.data.keyword.IBM_notm}} Z by using Kubernetes Helm charts in an on-premises environment, such as {{site.data.keyword.cloud_notm}} Private, and connect them to components that are hosted in multiple cloud environments. {{site.data.keyword.cloud_notm}} Private is an application platform for developing and managing on-premises and containerized applications. It is an integrated environment for managing containers that include the container orchestrator Kubernetes, a private image registry, a management console, and monitoring frameworks.
 {:shortdesc}
