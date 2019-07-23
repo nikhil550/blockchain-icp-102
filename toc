@@ -16,7 +16,6 @@ IBM Blockchain Platform for IBM Cloud Private v1.0.2
 	Installing IBM Blockchain Platform for IBM Cloud Private
 		ICP_setup.md
 		howto/helm_install_icp.md
-		howto/ibp-ssc-for-icp.md
 
 	{: .topicgroup}
 	Certificate Authorities on IBM Cloud Private
